@@ -18,7 +18,7 @@ By running this project, you will have the opportunity to work with the followin
 
 |Technology|Objective/Reason|
 |----------|----------------|
-|Azure Machine Learning Service|Manage Machine Learning models with the power of Azure|
+|Azure Machine Learning Service|service that manages Machine Learning Cycle development in Azure |
 |Tensorflow 2.0|Machine Learning framework|
 |1D CNN|Deep Learning Architecture for sequence data|
 

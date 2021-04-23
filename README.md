@@ -20,7 +20,7 @@ By running this project, you will have the opportunity to work with the followin
 |----------|----------------|
 |Azure Machine Learning Service|Manage Machine Learning models with the power of Azure|
 |Tensorflow 2.0|Machine Learning framework|
-|1D CNN|Deep Learning Architecture model for sequence data|
+|1D CNN|Deep Learning Architecture for sequence data|
 
 
 ### Dataset

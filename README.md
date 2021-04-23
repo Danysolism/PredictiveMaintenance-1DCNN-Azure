@@ -29,6 +29,7 @@ The dataset used was the [Condition monitoring of hydraulic systems](https://arc
 
 ### Model
 Since we are dealing with secuential data,  1DCNN  architecture was chosen. This model can identify time dependencies over fixed segments of time, and it works well when the location of the feature within the segment is not of high relevance.
+
 ![image](https://user-images.githubusercontent.com/7260235/115911988-14aae000-a46f-11eb-87ab-456ce27325a3.png)
 
 

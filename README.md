@@ -36,7 +36,7 @@ Since we are dealing with secuential data,  1DCNN  architecture was chosen. This
 ### TF-Lite Model Optimization
 Deep Learning models often require significant amounts of computational resources, memory and power to train and run. IoT devices are not able to meet the hardware requirements that deep learning models need. Using TF-Lite we can quantize our model by converting 32-bit floats to more efficient 8-bit integers. 
 
-By [Sara San Luis](https://github.com/xoubinha) and [Daniela Solis](https://github.com/Danysolism)
+By [Sara San Luis](https://github.com/xoubinha) [Rodrigo Cabello](https://github.com/mrcabellom) and [Daniela Solis](https://github.com/Danysolism)
 
 ### References
 - [Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning)
